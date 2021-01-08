@@ -1,0 +1,12 @@
+@font-face{
+    font-family:"TitilliumWeb-regular";
+    src:url("../fonts/TitilliumWeb-Regular.ttf") format("truetype");
+}
+@font-face{
+    font-family:"TitilliumWeb-semibold";
+    src:url("../fonts/TitilliumWeb-SemiBold.ttf") format("truetype");
+}
+@font-face{
+    font-family:"TitilliumWeb-light";
+    src:url("../fonts/TitilliumWeb-Light.ttf") format("truetype");
+}
